@@ -1,6 +1,3 @@
-#Anna Franzesca Tabocolde
-#9 Berllium
-#14 years old 
-hi
+Hi I'm Anna Franzesca Tabocolde from 9 Beryllium
 
 

@@ -33,12 +33,14 @@ Please list possible sub-problems:
 
 For each sub-problem, apply CT skills:
 
-| Sub-Problem                  | CT Skill                               | Example Solution |
-|slow ordering process         | Pattern Recognition                   | ----- |
-|Inefficient payment process|  | Algorithm Design + Pattern Recognition |
-|No real-time stocking tracking|  |  |
-|  |  |  |
-|  |  |  |
+| Sub-Problem                  | CT Skill               | Example Solution |
+|slow ordering process         | Pattern Recognition  + |
+                               | Algorithm Design       |
+|Inefficient payment process|  | Algorithm Design       | 
+                               |  + Date Representation |
+|No real-time stocking tracking| Algorithm Design       |
+                               | + Date Representation   |
+
 
  
 
